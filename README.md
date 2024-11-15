@@ -1,5 +1,6 @@
 # 2024 COMPASS Hackathon 출품작
 2024년 11월 9일(토)에 진행된, [COMPASS Hackathon](https://www.lecturernews.com/news/articleView.html?idxno=166069)에 참여하여, [우수상(3등)](https://cloud.gwlrs.ac.kr/ko/exo/all/view/131/notice/view/858)으로 입상했습니다! (Team: Data Doctors)  
+
 ![KakaoTalk_20241115_220703965](https://github.com/user-attachments/assets/98cd4942-c667-44c6-8013-1459f63e87ce)
 
 COMPASS 플랫폼을 활용하여 OMOP-CDM 기반 정밀의료·헬스케어 등 의생명데이터를 분석하는 경진대회에서,  
